@@ -1,1 +1,1 @@
-global enable_msaa 1
+global debug.force_msaa 1
