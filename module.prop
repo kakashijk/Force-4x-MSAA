@@ -1,7 +1,7 @@
 id=force-4x-msaa
 name=Force 4x MSAA
 description=Force 4x MSAA for better graphics
-author=YasserYvY
+author=kakashijk
 version=v1.0.0
 versionCode=1
-repository=https://github.com/YasserYvY/force-4x-msaa
+repository=https://github.com/kakashijk/force-4x-msaa
