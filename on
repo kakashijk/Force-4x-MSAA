@@ -1,1 +1,1 @@
-global debug.force_msaa 1
+global force_4x_msaa 1
